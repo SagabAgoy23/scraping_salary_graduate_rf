@@ -87,5 +87,7 @@ outputs/feature_importance.csv
 models/random_forest_salary_classifier.joblib
 ```
 ## Dataset yang digunakan
+```text
 folder: outputs
 nama file: jobstreet_raw.csv
+```
