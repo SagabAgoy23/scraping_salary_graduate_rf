@@ -1,0 +1,8 @@
+﻿,0 sampai < 1 juta,1 sampai < 2 juta,2 sampai < 4 juta,4 sampai < 6 juta,6 sampai < 8 juta,8 sampai < 10 juta,>= 10 juta
+0 sampai < 1 juta,15,1,1,1,0,0,0
+1 sampai < 2 juta,2,58,3,2,3,0,1
+2 sampai < 4 juta,3,29,109,4,6,0,3
+4 sampai < 6 juta,1,4,6,123,12,3,5
+6 sampai < 8 juta,1,1,7,6,129,5,6
+8 sampai < 10 juta,0,3,2,1,4,52,1
+>= 10 juta,2,11,2,4,3,0,78
